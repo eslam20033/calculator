@@ -1,8 +1,10 @@
 # 📱 Simple Calculator App
 
-A modern, clean, and responsive Calculator application built with **Flutter** using the **BLoC (Business Logic Component)** pattern for scalable and robust state management.
+A modern, clean, and responsive Calculator application built with **Flutter** using the **BLoC (Business Logic Component)** pattern.
 
----
+## 📸 App Preview
+
+![Simple Calculator App](screenshots/calculator.png)
 
 ## 🌟 Key Features
 
